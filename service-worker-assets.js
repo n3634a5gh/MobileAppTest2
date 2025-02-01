@@ -1,5 +1,5 @@
 self.assetsManifest = {
-  "version": "8xF9aqwV",
+  "version": "5cjm7W/W",
   "assets": [
     {
       "hash": "sha256-o5vij9DaPjEwn2HRMGpGQM/jiRxzV11IaycuXglRCAc=",
@@ -14,7 +14,7 @@ self.assetsManifest = {
       "url": "_framework/Microsoft.AspNetCore.Components.WebAssembly.wasm"
     },
     {
-      "hash": "sha256-Mca5kQWGfgGzRFBMEl8orI3x5q7Zbhq5aJjlCmvg3sw=",
+      "hash": "sha256-S1zLy3QznWSrLTb/eeYIo2flzRqUprYP9JRvyBXDfxc=",
       "url": "_framework/Microsoft.AspNetCore.Components.wasm"
     },
     {
@@ -126,7 +126,7 @@ self.assetsManifest = {
       "url": "_framework/Microsoft.Net.Http.Headers.wasm"
     },
     {
-      "hash": "sha256-ek7+YNET6EFrzZiiViPooLfQeDdcLjZy0iN/Eh6JXXc=",
+      "hash": "sha256-Se4KR+uSKKXQ2wSSgRX3EQDpL/LVfr0R42VcGGyomZU=",
       "url": "_framework/Mobilna_Gra_Terenowa.wasm"
     },
     {
@@ -242,7 +242,7 @@ self.assetsManifest = {
       "url": "_framework/System.Text.RegularExpressions.wasm"
     },
     {
-      "hash": "sha256-YrP+GnlZXZy7ejaNg/du0etF6XXCQHFnruCL15ELESU=",
+      "hash": "sha256-EcKUmiRnglHOn42jKNKcazeVlYtUQ4ieDG5+ROZQEg0=",
       "url": "_framework/blazor.boot.json"
     },
     {
@@ -314,7 +314,7 @@ self.assetsManifest = {
       "url": "manifest.webmanifest"
     },
     {
-      "hash": "sha256-cPA4UofqCHy4I4o+dNSviBdHPcdERUTk4R9wm7NsKt0=",
+      "hash": "sha256-wnFjA/sEKSWp0Nvf3oMkuLDemr44u0exn0mbhokSCcM=",
       "url": "scripts/map.js"
     }
   ]

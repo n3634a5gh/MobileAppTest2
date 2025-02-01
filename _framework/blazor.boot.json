@@ -1,7 +1,7 @@
 {
   "mainAssemblyName": "Mobilna_Gra_Terenowa",
   "resources": {
-    "hash": "sha256-8Oo8cwyKFvLALxqG5YR4uIk/aWzcDJ5A+vUx7cM6Ay4=",
+    "hash": "sha256-4wM0D88fmKOGtXJh82PSLaUnwNd9nGYz8DsnTAjfHrs=",
     "jsModuleNative": {
       "dotnet.native.js": "sha256-B6DNRvFeCUi3jbx9uKpuj+hV9cN0KG4RdZj1FgBZwj8="
     },
@@ -18,7 +18,7 @@
     },
     "coreAssembly": {},
     "assembly": {
-      "Microsoft.AspNetCore.Components.wasm": "sha256-Mca5kQWGfgGzRFBMEl8orI3x5q7Zbhq5aJjlCmvg3sw=",
+      "Microsoft.AspNetCore.Components.wasm": "sha256-S1zLy3QznWSrLTb/eeYIo2flzRqUprYP9JRvyBXDfxc=",
       "Microsoft.AspNetCore.Components.Web.wasm": "sha256-vbmhR3SSHxQ7d2rRoVmpYplGgf5f0NGZK4xeg+ufpME=",
       "Microsoft.AspNetCore.Components.WebAssembly.wasm": "sha256-ifXv4cvxY+tAadYQj0bb7NdDA3dA0Ze0OeLWnOzP/1Q=",
       "Microsoft.AspNetCore.Hosting.Abstractions.wasm": "sha256-EBu0K8SFe/KbDl6H4PhdQZcfOWBAQS9MiNm+0jjq0xo=",
@@ -48,7 +48,7 @@
       "Microsoft.JSInterop.wasm": "sha256-/a2ywBVO60H6ZjqSD/C34ynDNuDMyoatYefSNc+dBaU=",
       "Microsoft.JSInterop.WebAssembly.wasm": "sha256-Jwrlf0VPydOWncfsAvk569TQrosh6ro1Xkc8HzvG2nQ=",
       "Microsoft.Net.Http.Headers.wasm": "sha256-jfXK+cfJd/PteHB+5Bay/NDY9b9VLvVw6G/Bm262Lpo=",
-      "Mobilna_Gra_Terenowa.wasm": "sha256-ek7+YNET6EFrzZiiViPooLfQeDdcLjZy0iN/Eh6JXXc=",
+      "Mobilna_Gra_Terenowa.wasm": "sha256-Se4KR+uSKKXQ2wSSgRX3EQDpL/LVfr0R42VcGGyomZU=",
       "netstandard.wasm": "sha256-Ymt4H/EFVTkKOf6E/cSQqNJshexHxkONN0K+vGi+56I=",
       "System.Buffers.wasm": "sha256-SCaVX54xcujI1MzS6bdF6durL+jZVRZ4k9kn9g0p0Ic=",
       "System.Collections.Concurrent.wasm": "sha256-qbFVwJ3MwPs4iLA4qWelpJAeIsH2PRjUbI272EIbahg=",
